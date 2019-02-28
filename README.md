@@ -1,4 +1,4 @@
-# Model test classification algorithm
+# Model for Choosing the Best Algorithm for Your classification Rating
 
 [![Gitter chat](https://badges.gitter.im/chriskacerguis/codeigniter-restserver.png)](https://gitter.im/codeigniter-restserver/Lobby)
 
